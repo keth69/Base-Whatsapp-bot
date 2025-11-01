@@ -13,7 +13,7 @@
   },
   "list_menu": {
     "title": "*📋 DAFTAR MENU*",
-    "footer": "\n_Ketik nama item langsung untuk deskripsi!"
+    "footer": "\nKetik nama item langsung untuk deskripsi!"
   },
   "item_detail": {
     "title": "{ITEM_NAME}",
