@@ -1,0 +1,25 @@
+{
+  "menu_utama": {
+    "title": "*Daftar Menu {BOT_NAME} yang bisa kamu gunakan*",
+    "body": "\n*{PREFIX}tagall*\n*{PREFIX}storemenu*\n*{PREFIX}ownermenu*\n*{PREFIX}stiker*"
+  },
+  "store_menu": {
+    "title": "*🛒 STORE MENU*",
+    "body": "\n*{PREFIX}addlist*\n*{PREFIX}updatelist*\n*{PREFIX}dellist*\n*{PREFIX}list*"
+  },
+  "owner_menu": {
+    "title": "*👑 OWNER MENU*",
+    "body": "\n*{PREFIX}addowner*\n*{PREFIX}delowner*\n*{PREFIX}showowners*"
+  },
+  "list_menu": {
+    "title": "*📋 DAFTAR MENU*",
+    "footer": "\n_Ketik nama item langsung untuk deskripsi!"
+  },
+  "item_detail": {
+    "title": "{ITEM_NAME}",
+    "footer": "\nKetik {PREFIX}list untuk melihat semua item yang tersedia."
+  },
+  "tagall_title": "📣 *Panggilan Atmin* 📣\n\n",
+  "broadcast_text_sent": "✅ Pesan broadcast berhasil dikirim ke {COUNT} grup.",
+  "broadcast_video_sent": "✅ Video broadcast berhasil dikirim ke {COUNT} grup."
+}

@@ -1,0 +1,30 @@
+{
+  "name": "wa-storebot-baileys",
+  "version": "1.0.0",
+  "description": "WhatsApp Bot with Store Menu and Tag All feature using skyzopedia/baileys fork.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "whatsapp-bot",
+    "baileys",
+    "nodejs",
+    "pterodactyl"
+  ],
+  "author": "YourName",
+  "license": "ISC",
+  "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "@hapi/boom": "^10.0.1",
+    "@whiskeysockets/baileys": "npm:alipclutch-baileys@latest",
+    "figlet": "^1.9.3",
+    "fs": "^0.0.1-security",
+    "futoin-hkdf": "^1.5.3",
+    "jimp": "^0.22.12",
+    "node-cache": "^5.1.2",
+    "pino": "^10.0.0",
+    "qrcode-terminal": "^0.12.0",
+    "wa-sticker-formatter": "^4.4.4"
+  }
+}
